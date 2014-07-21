@@ -1,5 +1,6 @@
-# One Month rails
+# One Month Rails
 
-This is the pintereting sample application for [*One Month Rails*]
+This is the pinteresting application for 
+[*One Month Rails*](http://onemonthrails.com)
 
-by [Diana Akelman]
+by [Diana Akelman](https://github.com/dakelman/pinteresting)
